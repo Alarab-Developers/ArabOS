@@ -1,8 +1,9 @@
-#ifndef APP_ENGINE_H
-#define APP_ENGINE_H
+#ifndef BIN_FORMAT_H
+#define BIN_FORMAT_H
 
+#include <stdint.h>
 #include "أرض_المستخدم/النظام/الخدمات/محرك_انظمة_الملفات/file.h"
 
-void app_run(file_t* f);
+int bin_run(file_t* f);
 
 #endif
