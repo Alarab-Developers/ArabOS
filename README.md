@@ -1,5 +1,6 @@
 <div align="center">
   <img src="/المُلسق.png" alt="شعار اللغة البرمجية العربية" width="200">
+  <div align="center">
     <img src="/سطح_المكتب.png" alt="شعار اللغة البرمجية العربية" width="200">
 
 
