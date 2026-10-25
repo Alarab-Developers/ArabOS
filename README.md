@@ -1,8 +1,9 @@
 <div align="center">
   <img src="/المُلسق.png" alt="شعار اللغة البرمجية العربية" width="200">
   <div align="center">
-    <img src="/سطح_المكتب.png" alt="شعار اللغة البرمجية العربية" width="200">
-
+    <img src="/سطح_المكتب.png" alt="شعار اللغة البرمجية العربية" width="400">
+  <div align="center">
+    <img src="/الواجهة" alt="شعار اللغة البرمجية العربية" width="400">
 
 #  نظام العرب (Arab OS) 🌙️⚔️
 
