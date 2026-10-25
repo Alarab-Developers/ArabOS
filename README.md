@@ -3,7 +3,7 @@
   <div align="center">
     <img src="/سطح_المكتب.png" alt="شعار اللغة البرمجية العربية" width="400">
   <div align="center">
-    <img src="/الواجهة" alt="شعار اللغة البرمجية العربية" width="400">
+    <img src="/الواجهة.png" alt="شعار اللغة البرمجية العربية" width="400">
 
 #  نظام العرب (Arab OS) 🌙️⚔️
 
