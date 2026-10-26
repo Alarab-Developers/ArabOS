@@ -31,7 +31,7 @@ $(ESP): FORCE
 		exit 1; \
 	fi; \
 	mkdir -p المقلع; \
-		tar -cf "$(SYSARCHIVE)" -C "$(SYSTEM_DIR)" الاعدادات الخدمات الوحدات; \
+		tar -cf "$(SYSARCHIVE)" -C "$(SYSTEM_DIR)" الاعدادات الخدمات الوحدات نعناع.صورة; \
 	echo "تم إنشاء $(SYSARCHIVE)"; \
 	rm -f "$(ESP)"; \
 	dd if=/dev/zero of="$(ESP)" bs=1M count=80; \
